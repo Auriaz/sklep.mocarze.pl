@@ -1,0 +1,4 @@
+[2020-01-11 17:10:16] app.ERROR: Class "AdminLinkWidgetController" not found in controllers/admin [] []
+[2020-01-11 17:10:19] app.INFO: Exporting mail with theme modern for language Polski (Polish) [] []
+[2020-01-11 17:10:21] app.INFO: Core output folder: E:\WorkSpace\mocarze.pl\sklep.mocarze.pl\backend/mails [] []
+[2020-01-11 17:10:22] app.INFO: Modules output folder: E:\WorkSpace\mocarze.pl\sklep.mocarze.pl\backend/modules/ [] []

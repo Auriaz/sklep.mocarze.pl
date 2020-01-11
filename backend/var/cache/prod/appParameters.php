@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => '127.0.0.1',
+    'database_port' => '',
+    'database_name' => 'mocarze_sklep',
+    'database_user' => 'root',
+    'database_password' => '',
+    'database_prefix' => 'ps_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'h9noPS1G7W4YJKP5oTfXoIu5ruqs5qtZ1IIYjXA6gjeo0m1YgpokXha9',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-01-11',
+    'locale' => 'pl-PL',
+    'use_debug_toolbar' => true,
+    'cookie_key' => 'JmRAKCa71Zhvb9IjseahIdZTcefGPeZKaBHgcptrhLFLSDSeTRRI9K5X',
+    'cookie_iv' => 'mcyNEgOn',
+    'new_cookie_key' => 'def0000064a4344bbdec72bd1eb23fb825740c7a0c1ab976a40dff67b370e512977753c5232214d41b5ada7318d77344af9c3256178dcfd01b7f73bde97ff78eb30f9eed',
+  ),
+);
