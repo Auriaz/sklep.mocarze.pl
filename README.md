@@ -1,3 +1,3 @@
-# branch name: master 
-# Główny gałąź projektu wykorzystywana do publikacji najnowszej wersji projektu ( release status) na serwerze produkcyjnym.
-# Master powinien zawsze zawierać stabilną wersję projektu. Możliwość wprowadzenia zmian powinna być ograniczona.
+# branch name: feature  
+# Na tej gałęzi prowadzone są prace nad funkcjami projektu ( alpha status). Po ukończeniu prac, zmiany trafiają na branch develop. 
+
