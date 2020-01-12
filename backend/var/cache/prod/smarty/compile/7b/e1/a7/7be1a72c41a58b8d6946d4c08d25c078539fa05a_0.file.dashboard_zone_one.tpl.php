@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-11 17:16:19
+/* Smarty version 3.1.33, created on 2020-01-12 20:09:50
   from 'E:\WorkSpace\mocarze.pl\sklep.mocarze.pl\backend\modules\psaddonsconnect\views\templates\hook\dashboard_zone_one.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e19f4d3057fc8_70171433',
+  'unifunc' => 'content_5e1b6efec9d0c4_24957024',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e19f4d3057fc8_70171433 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e1b6efec9d0c4_24957024 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <section id="psaddonsconnect" class="panel widget">
 	<div class="panel-heading">

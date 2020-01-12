@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-11 17:16:24
+/* Smarty version 3.1.33, created on 2020-01-12 20:09:48
   from 'E:\WorkSpace\mocarze.pl\sklep.mocarze.pl\backend\modules\gamification\views\templates\hook\notification_bt.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e19f4d8e7c211_75028286',
+  'unifunc' => 'content_5e1b6efc69bc70_90851604',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e19f4d8e7c211_75028286 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e1b6efc69bc70_90851604 (Smarty_Internal_Template $_smarty_tpl) {
 echo '<script'; ?>
 >
 	var current_id_tab = <?php echo intval($_smarty_tpl->tpl_vars['current_id_tab']->value);?>

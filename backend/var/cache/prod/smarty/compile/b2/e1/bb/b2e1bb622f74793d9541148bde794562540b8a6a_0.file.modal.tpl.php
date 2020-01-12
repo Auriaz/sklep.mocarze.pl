@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-11 17:16:13
+/* Smarty version 3.1.33, created on 2020-01-12 20:09:51
   from 'E:\WorkSpace\mocarze.pl\sklep.mocarze.pl\backend\modules\ps_mbo\views\templates\admin\modal.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e19f4cdd84400_60840932',
+  'unifunc' => 'content_5e1b6eff9a6fb2_14731693',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e19f4cdd84400_60840932 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e1b6eff9a6fb2_14731693 (Smarty_Internal_Template $_smarty_tpl) {
 ?> 
 <div class="modal fade" id="modules_list_container">
 	<div class="modal-dialog">

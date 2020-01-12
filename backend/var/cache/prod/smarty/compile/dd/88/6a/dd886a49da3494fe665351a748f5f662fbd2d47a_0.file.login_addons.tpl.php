@@ -1,11 +1,11 @@
 <?php
-/* Smarty version 3.1.33, created on 2020-01-11 17:16:13
+/* Smarty version 3.1.33, created on 2020-01-12 20:09:50
   from 'E:\WorkSpace\mocarze.pl\sklep.mocarze.pl\backend\admin828iro6gx\themes\default\template\controllers\modules\login_addons.tpl' */
 
 /* @var Smarty_Internal_Template $_smarty_tpl */
 if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   'version' => '3.1.33',
-  'unifunc' => 'content_5e19f4cd857106_67670801',
+  'unifunc' => 'content_5e1b6efea00956_58039717',
   'has_nocache_code' => false,
   'file_dependency' => 
   array (
@@ -20,7 +20,7 @@ if ($_smarty_tpl->_decodeProperties($_smarty_tpl, array (
   array (
   ),
 ),false)) {
-function content_5e19f4cd857106_67670801 (Smarty_Internal_Template $_smarty_tpl) {
+function content_5e1b6efea00956_58039717 (Smarty_Internal_Template $_smarty_tpl) {
 ?>
 <div class="modal-body">
 <?php if ($_smarty_tpl->tpl_vars['add_permission']->value == '1') {?>

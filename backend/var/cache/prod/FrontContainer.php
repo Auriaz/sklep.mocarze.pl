@@ -1203,6 +1203,7 @@ class FrontContainer extends Container
                 58 => 'ps_buybuttonlite',
                 59 => 'blockreassurance',
                 60 => 'ps_facetedsearch',
+                61 => 'commentproduct',
             ],
             'ps_cache_dir' => 'E:\\WorkSpace\\mocarze.pl\\sklep.mocarze.pl\\backend/var/cache/prod\\',
             'mail_themes_uri' => '/mails/themes',

@@ -1,0 +1,19 @@
+Podział gałęzi ( Branches ) w repozytorium.
+master branch
+Główny gałąź projektu wykorzystywana do publikacji najnowszej wersji projektu ( release status) na serwerze produkcyjnym.
+Master powinien zawsze zawierać stabilną wersję projektu. Możliwość wprowadzenia zmian powinna być ograniczona.
+	
+Develop branch
+Gałąź na której znajduje się wersja testowa projektu (beta status), połączona z serwerem testowym.
+
+Feature branch 
+Na tej gałęzi prowadzone są prace nad funkcjami projektu ( alpha status). 
+Po ukończeniu prac, zmiany trafiają na branch develop. 
+
+User branch
+Prywatne gałęzie użytkowników służą indywidualnej pracy członka zespołu nad zmianami. 
+Ukończone zmiany trafiają na branch  feature.
+
+Bugfix branch
+W szczególnych przypadkach, kiedy zachodzi potrzeba szybkie wprowadzenie zmian wyniku pojawienia się błędu na serwerze produkcyjnym. 
+W tej sytuacji wykorzystywane są branch’e typu bugfix. Przygotowane tutaj zmiany najczęściej trafiają na branch develop.
